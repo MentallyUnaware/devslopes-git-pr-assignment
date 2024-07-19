@@ -6,3 +6,4 @@ Thumbs.db
 # Sensitive data #
 ##################
 .env.local
+.env.production.local
